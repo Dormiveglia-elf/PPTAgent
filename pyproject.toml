@@ -37,7 +37,6 @@ dependencies = [
     "jsonlines",
     "lxml",
     "mistune",
-    "marker-pdf==1.1.0",
     "numpy",
     "oaib",
     "openai",
